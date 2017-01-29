@@ -5,8 +5,9 @@
 - nodejs v6.9.4 (https://nodejs.org/en/download/) 
 
 ## Get it running
-In command line, navigate to your project folder, then run:
+In command line, navigate to your projects folder, then run:
 - $ git clone https://github.com/kagos/quick-dash.git
+- $ cd quick-dash
 - $ npm start
 
 ## TODO
